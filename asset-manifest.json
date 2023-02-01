@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_2_todos_example/static/css/main.56e24047.css",
+    "main.js": "/react_2_todos_example/static/js/main.a765354a.js",
+    "index.html": "/react_2_todos_example/index.html",
+    "main.56e24047.css.map": "/react_2_todos_example/static/css/main.56e24047.css.map",
+    "main.a765354a.js.map": "/react_2_todos_example/static/js/main.a765354a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e24047.css",
+    "static/js/main.a765354a.js"
+  ]
+}
